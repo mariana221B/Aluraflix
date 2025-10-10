@@ -1,9 +1,12 @@
 body {
     color: white;
     background: black;
-    margin: 0px;
-    font-family: "Chakra Petch", sans-serif;
-    margin-bottom: 100px;
+}
+
+header {border: solid 2px white;}
+header {
+    border: solid 2px rgb(42, 122, 228);
+}
 }
 
 header {
